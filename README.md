@@ -1,4 +1,4 @@
-# ClockAdjust
+# ClockAdjust v1.0
 
 Ferramenta simples para sincronizar o relógio do Windows com um clique.
 
