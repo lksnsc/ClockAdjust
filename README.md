@@ -1,6 +1,6 @@
 # ClockAdjust
 
-Ferramenta simples para sincronizar o relógio do Windows.
+Ferramenta simples para sincronizar o relógio do Windows com um clique.
 
 ## Como usar
 
