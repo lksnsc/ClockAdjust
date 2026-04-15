@@ -1,5 +1,7 @@
 # ClockAdjust v1.0
 
+![Screenshot](screenshot.png)
+
 Ferramenta simples para sincronizar o relógio do Windows com um clique.
 
 ## Como usar
